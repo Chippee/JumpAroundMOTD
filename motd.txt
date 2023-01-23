@@ -1,0 +1,5 @@
+[BETA]
+
+Welcome to JumpAround. There is currently a 100 player limit on the game
+with 10 players allowed in one server.
+Hope you understand and will be increased through further updates.
